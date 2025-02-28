@@ -1,0 +1,14 @@
+# Core dependencies
+PyQt6>=6.0.0
+numpy>=1.19.0
+siphash24
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Optional GPU acceleration
+pyopencl
+
+# Development tools (optional)
+pytest>=6.0.0
+pylint>=2.8.0
+black>=21.5b2

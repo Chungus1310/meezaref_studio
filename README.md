@@ -10,7 +10,7 @@
 
 Meeza Reference Studio is a powerful yet intuitive image reference tool designed for artists, illustrators, and designers. It provides a modern, layer-based workspace for importing, arranging, and manipulating reference images with professional-grade tools.
 
-![Meeza Reference Studio Screenshot](docs/screenshot.png)
+![Meeza Reference Studio Screenshot](https://github.com/user-attachments/assets/43a5b907-5d99-4754-b8ca-c3e1a3d0851c)
 
 ## 🚀 Features
 
